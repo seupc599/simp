@@ -1,241 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X1
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP01.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X2
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP02.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X3
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP03.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X4
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP04.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X5
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP05.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X6
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP06.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X7
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP07.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X8
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP08.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X9
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP09.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X10
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP10.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X11
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP11.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X12
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP12.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X13
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP13.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X14
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP14.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X15
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP15.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X16
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP16.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X17
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP17.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X1http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X2http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP02.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X3http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP03.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X4http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP04.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X5http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP05.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X6http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP06.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X7http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP07.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X8http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP08.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X9http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP09.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X10http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP10.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X11http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP11.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X12http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP12.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X13http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X14http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP14.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X15http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP15.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X16http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP16.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="1ª Temporada ",1X17http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT01EP17.mp4?STANIPTV
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X1
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP01.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X2
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP02.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X3
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP03.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X4
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP04.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X5
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP05.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X6
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP06.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X7
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP07.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X8
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP08.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X9
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP09.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X10
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP10.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X11
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP11.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X12
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP12.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X13
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP13.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X14
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP14.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X15
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP15.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X16
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP16.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X17
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP17.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X18
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP18.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X19
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP19.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X20
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP20.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X21
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP21.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X22
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X1http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X2http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP02.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X3http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP03.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X4http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP04.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X5http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP05.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X6http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP06.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X7http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP07.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X8http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP08.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X9http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP09.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X10http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP10.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X11http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP11.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X12http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP12.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X13http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X14http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP14.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X15http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP15.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X16http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP16.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X17http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP17.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X18http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP18.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X19http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP19.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X20http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP20.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X21http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP21.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X22http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT02EP01.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="2ª Temporada ",2X22
 FORA DO AR
 
 
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X1
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP01.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X2
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP02.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X3
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP03.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X4
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP04.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X5
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP05.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X6
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP06.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X7
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP07.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X8
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP08.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X9
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP09.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X10
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP10.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X11
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP11.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X12
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP12.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X13
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP13.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X14
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP14.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X15
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP15.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X16
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP16.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X17
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP17.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X18
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP18.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X19
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP19.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X20
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP20.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X21
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP21.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X22
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP22.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X23
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP23.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X1http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X2http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP02.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X3http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP03.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X4http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP04.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X5http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP05.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X6http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP06.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X7http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP07.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X8http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP08.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X9http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP09.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X10http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP10.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X11http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP11.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X12http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP12.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X13http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X14http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP14.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X15http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP15.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X16http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP16.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X17http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP17.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X18http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP18.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X19http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP19.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X20http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP20.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X21http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP21.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X22http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP22.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="3ª Temporada ",3X23http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT03EP23.mp4?STANIPTV
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X1
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP01.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X2
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP02.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X3
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP03.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X4
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP04.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X5
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP05.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X6
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP06.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X7
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP07.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X8
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP08.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X9
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP09.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X10
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP10.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X11
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP11.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X12
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP12.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X13
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP13.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X14
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP14.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X15
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP15.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X16
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP16.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X17
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP17.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X18
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP18.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X19
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP19.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X20
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP20.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X21
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP21.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X22
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP22.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X23
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP23.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X24
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP24.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X1http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X2http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP02.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X3http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP03.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X4http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP04.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X5http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP05.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X6http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP06.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X7http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP07.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X8http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP08.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X9http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP09.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X10http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP10.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X11http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP11.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X12http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP12.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X13http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X14http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP14.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X15http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP15.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X16http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP16.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X17http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP17.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X18http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP18.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X19http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP19.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X20http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP20.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X21http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP21.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X22http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP22.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X23http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP23.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="4ª Temporada ",4X24http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT04EP24.mp4?STANIPTV
 
 
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X1
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP01.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X2
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP02.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X3
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP03.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X4
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP04.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X5
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP05.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X6
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP06.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X7
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP07.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X8
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP08.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X9
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP09.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X10
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP10.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X11
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP11.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X12
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP12.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X13
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP13.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X14
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP14.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X15
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP15.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X16
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP16.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X17
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP17.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X18
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP18.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X19
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP19.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X20
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP20.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X21
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP21.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X22
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP22.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X23
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP23.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X24
-http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP24.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X1http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP01.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X2http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP02.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X3http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP03.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X4http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP04.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X5http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP05.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X6http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP06.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X7http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP07.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X8http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP08.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X9http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP09.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X10http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP10.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X11http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP11.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X12http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP12.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X13http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP13.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X14http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP14.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X15http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP15.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X16http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP16.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X17http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP17.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X18http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP18.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X19http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP19.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X20http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP20.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X21http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP21.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X22http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP22.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X23http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP23.mp4?STANIPTV
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg" group-title="The Big Bang Theory" pltv-subgroup="5ª Temporada ",5X24http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/TBBTT05EP24.mp4?STANIPTV
 
 
 #EXTINF:-1  tvg-logo="http://i2.esmas.com/2016/04/05/853492/the-big-bang-theory-330x330.jpg"  group-title="The Big Bang Theory" pltv-subgroup="6ª Temporada",T06 -1
