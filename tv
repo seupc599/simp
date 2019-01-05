@@ -1,0 +1,1213 @@
+#EXTM3U
+
+#EXTINF :-1 tvg-logo="https://fordhamcyberculture.files.wordpress.com/2014/03/cycle01-transparent.png" group-title="",CANAIS EDJAINE 
+
+#EXTSIZE: Big
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/19150253991781-t100x100-1-3.jpg" group-title="CANAIS",Globo
+http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM.png" group-title="CANAIS",GLOBO PREMIUM 
+http://fantasticfour.dynu.net:8080/live/Tugavod/f7c4DgHWtK/8690.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png" group-title="ESPORTES",TNT EI
+http://apk26.futeboltvgratis.com/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/200px-Globo_logo_and_wordmark.svg.png" group-title="CANAIS",Globo SP
+http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/200px-Globo_logo_and_wordmark.svg.png" group-title="CANAIS",Globo Rj
+http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/200px-Globo_logo_and_wordmark.svg.png" group-title="CANAIS", Globo MG
+http://apk26.futeboltvgratis.com/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/globo-news.png" group-title="CANAIS",Globo News
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/97.m3u8
+
+#EXTINF:0 group-title="CANAIS",TV JORNAL
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1344704417_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg" group-title="CANAIS",TV na Ilha
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cb3fc00ec2adfd013415da064c681bd.png" group-title="CANAIS",TV Portal Midia - Guarabira, PB
+https://video01.tvdigitalhd.org/tvportalmidia/tvportalmidia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/multishow.png" group-title="CANAIS",Multishow
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/86.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/10/baby-tv.png" group-title="CANAIS",Baby TV
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/128.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvrba.com.br/wp-content/uploads/2017/04/facebook.jpg" group-title="CANAIS",TV RBATV 
+https://video01.tvdigitalhd.org/rbatv12/rbatv12/chunklist_w1881906243.m3u8
+
+#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="CANAIS",TV Catve 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w79447526.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="CANAIS",SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w900546421.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/690949651537612800/uahNvz8V_400x400.jpg" group-title="CANAIS",Tv Maceio
+https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w1719758278.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.oportalro.com/imagens/tv-jornet.jpg" group-title="CANAIS",Tv Do Povo
+https://59f2354c05961.streamlock.net:1443/livetvdopovo/_definst_/livetvdopovo.smil/chunklist_w1573190969_b350000.m3u8
+
+#EXTINF:-1 tvg-logo="http://stat10.novotempo.com/images/aovivo/tt_padrao.jpg" group-title="CANAIS",TV Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1686520219_b2128000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="TV ABERTA",REDE TV! 
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+
+#EXTINF:-1 tvg-logo="https://www20.opovo.com.br/images/app/noticia_132346504881/2014/12/17/3364697/tv-o-povo.jpg" group-title="CANAIS",FUTURA TV o Povo
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1613913290.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9ebca8564ac93b7b8efaad147e5543d.png" group-title="CANAIS",TV da Cidade
+http://200.220.202.28/hls/cidade.m3u8
+
+#EXTINF:-1 tvg-logo="https://portaliftv.files.wordpress.com/2013/08/sbt-goic3a2nia.jpg?w=350&h=200&crop=1" group-title="CANAIS", SBT GOIAS
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/42/Logotipo_do_SBT_Interior_RJ.png" group-title="CANAL ABERTO",SBT SP INTERIOR
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w655179482_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" group-title="CANAIS",TVI FICÇÃO 
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4057.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f88c0985cd9dcafd1347663418bb3c33.jpg" group-title="CANAIS",TV União - Natal
+http://flash5.locamega.com.br:1935/locamega/_definst_/locamega/chunklist_w1186949457.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="CANAIS",Nova Era TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5859d8d8fe1c47c78e21b5022921a92c.png" group-title="CANAIS",Eco TV		
+https://5b7f3c45ab7c2.streamlock.net/8010/8010/chunklist_w247982945.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1b38197464c993b55202421771846cea.png" group-title="CANAIS",Rede New TV	
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/chunklist_w701637572.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/09/nickelodeon.png" group-title="CANAIS",Nickelodeon	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/123.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Sucesso.png" group-title="CANAIS",Record GO
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/Logo_AgroBrasilTV.jpg/200px-Logo_AgroBrasilTV.jpg" group-title="CANAIS",Agro Brasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvosasco.com.br/wp-content/uploads/2018/11/Perfil-TVO-18-anos-2.png" group-title="CANAIS",Tv Osasco
+http://stmv2.conectastm.com/luisantonio1763/luisantonio1763/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dezoito.com/site/wp-content/uploads/2014/03/tv-aberta-logo1-805x525.jpg" group-title="CANAIS",TV Aberta
+https://v2.ciclano.io:1443/tvabertalive/_definst_/tvabertalive/chunklist_w937838379.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ed66a9e0cbcc08f6020e71119c1d67d2.png" group-title="CANAIS",TV Gazeta RN 
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/chunklist_w46529912.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7faf25d0fff391c39eb21e2374503e89.png" group-title="CANAIS",Nova Era TV 
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w978713430.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/ZV1AFynFo3cgec3bEW-jDX29q1TT-pNVezQQJVT86lgwCOgsMAP3A4GxDbM369j7pa2c=w300" group-title="CANAIS",TV CUMARU
+http://45.43.208.2:1935/tvcumaru/tvcumaru/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.megatv.com.br/u/og-mega.png" group-title="CANAIS",Mega TV
+https://rtmp.cdn.upx.net.br/00135_4/myStream.sdp/chunklist.m3u8?c500517fd0a5eb1622e0fdef657520ad
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="CANAIS",TV Teen Net	
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06b192658dcb9b55e9db9c4b84ccf79b.jpg" group-title="CANAIS",TV Serra Azul 
+http://stmv2.srvstm.com/tvserrazuladm/tvserrazuladm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5db369fc7d183e2e2bfa2c3d5fadb79e.png" group-title="CANAIS",Tv Camara Jacareí
+http://179.109.16.5:1935/tvcamarajacarei/aovivo/chunklist_w1477983268.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa7OGGD0opp3SI8kjVhhqrllxQIdLYrTbUYyJqpbKMGkCdzg_4kQ" group-title="CANAIS",TV SANTUÁRIO
+http://45.43.208.2:1935/tvcatolic/tvcatolic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f188adb3d067eaa7c709d51391e730f7.jpg" group-title="CANAIS",TV Vila Velha
+https://cdn.jmvstream.com/live/hls/lv_6820/LV6820_32yJNqgKKB.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/436bef8a50bb812e1894c7fe29107957.png" group-title="CANAIS",Tv Ambiental
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvc16.com/aovivo/images/logo-tvc.png" group-title="CANAIS",Tvc16
+http://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" group-title="CANAIS",MTV BASE 
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6009.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="CANAIS",TeleBärn 
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/69f9ad9313c51a68307edebfc0fab307.jpg" group-title="CANAIS",TV da Gente
+https://595b85410a151.streamlock.net/tvdagente/smil:tvdagente.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f188adb3d067eaa7c709d51391e730f7.jpg" group-title="CANAIS",TV Vila Velha
+https://cdn.jmvstream.com/live/hls/lv_6820/LV6820_32yJNqgKKB.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d8e0651e1ae0002e61daf919b2bcc853.png" group-title="CANAIS",Cariri TV 
+https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w1548214758.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f6a7481ae008a1d0a3bf778cb8a3cd1d.png" group-title="CANAIS",Tv São Leo
+http://wse5.player.tv.br:1935/ftpsaoleo/ftpsaoleo/chunklist_w78553638.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAIS",Creative TV
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w185946146.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7d974ff78b437d7389923b224747a90d.png" group-title="CANAIS",TV SOL	
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w788000186.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/850e6dd3d2750e126feff1e5d342ed15.png" group-title="CANAIS",Livre TV
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="CANAIS",NATIONAL GEOGRAPHIC
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3993.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="TV Aberta",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.redengt.com.br/wp-content/uploads/2018/10/logoclaro.png" group-title="CANAIS",Rede NGT
+https://cdn.jmvstream.com/live/hls/lv_6099/LV6099_vKVncvJJBh.m3u8
+
+#EXTINF:-1 tvg-logo="http://listverse.wpengine.netdna-cdn.com/wp-content/uploads/2009/01/herculoids-tm.jpg" group-title="CANAIS",TV Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS",History Lab 
+http://wma10.fluidstream.net/HistoryLab/livestream/chunklist_w776634094.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1472709985/9fea93cb58684b29e9cff8fbd558926d_400x400.jpg" group-title="CANAL ABERTO",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title="CANAL ABERTO",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/TV_Serra_Dourada.jpg" group-title="CANAL ABERTO",TV Serra Dourada (SBT GO)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w843753535_b396000.m3u8
+
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20170209165631-rede-brasil.png" group-title="CANAL ABERTO", REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1652814249/TCM_logo_400x400.jpg" group-title="CANAIS",TCM 10 HD
+http://cw.tcm10.com.br/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/pQhJCp5E7sY/maxresdefault.jpg" group-title="CANAIS",TV GRAVA - Alfenas, MG
+http://stmv2.srvstm.com/redegrava/redegrava/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0fadce70e9898c61fc040196a0afc896.png" group-title="CANAIS",TV Sul - Guaxupé, MG
+https://rtmp.cdn.upx.net.br/00046/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VEMEVETV.png" group-title="CANAIS",VEM E VE TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent-gru2-1.xx.fbcdn.net/v/t1.0-9/10410506_391875344319754_782940637476938597_n.png?_nc_cat=104&_nc_ht=scontent-gru2-1.xx&oh=5c0d9f9cc3022489bae9b621e2c347c4&oe=5C8A5C12" group-title="TV Aberta",TV GOÍAS
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/---0Yg8jgxdI/VvxAqKdK4uI/AAAAAAABfXg/pDLNh6kDgpY_sLXKfjhirch1URQNcOTdQ/s1600/tele%2Blogo.jpg" group-title="Canais de TV",CINE CLUBE 3
+https://minhalista.live/channel/324423/listasiptv-online/redirect
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a6085796633d9278fccb8ca555250aef.jpg" group-title="CANAIS",TV Galega
+https://cdn.jmvstream.com/live/hls/lv_769/LV769_GdOsetvPVQ.m3u8
+ 
+#EXTINF:0 group-title="CANAIS",TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iaperforma.com.br/wp-content/uploads/2017/08/tvdiario.jpg" group-title="CANAIS",TV Diario HD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVESCOLA.png" group-title="CANAIS",TV ESCOLA 
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg" group-title="CANAIS",Itu Tv
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w689856195.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eff5abf6698eb18a0c0beb3ef87abb4a.jpg" group-title="CANAIS",VV8 TV
+http://servidor.saudeline.tv.br:1935/live/myStream1/chunklist_w1174391944.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6aa39b4a7402eb8e8b0a3207d294987c.png" group-title="CANAIS",Luau TV	
+http://server-1.locaaovivo.com.br/liveStream/36711571249/chunklist_w1116130833.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fb03ff6ebe5b890551fe417103bb8d77.jpg" group-title="CANAIS",Rede Litoral News 
+https://cdn.jmvstream.com/live/hls/lv_233/LV233_MXKNfeKoDo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/09/gloob.png" group-title="CANAIS",Gloob
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/121.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/h2.png" group-title="CANAIS",H2
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/103.m3u8
+
+#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png" group-title="CANAIS",TV Record
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b3a3e3164af35712ff9e30297500319b.png" group-title="CANAIS",TV Mar- Maceió, AL
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1180186134.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ce6c4248a4b016457fe68704ec135b7b.jpg" group-title="CANAIS",TV Alese- Aracaju, SE
+http://digilab-live.hls.adaptive.level3.net/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8
+
+#EXTINF:-1 tvg-logo="http://imagem.band.com.br/f_252194.jpg" group-title="CANAIS",TV Band
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="CANAIS",TV Santa Cecilia- Santos, SP	
+http://flash1.crossdigital.com.br:1935/2063/2063/chunklist_w1421145576.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c2ed93c16e39753a9f345e41c4ae56f3.jpg" group-title="CANAIS",TV Nova Nordeste
+https://cdn.jmvstream.com/live/hls/lv_7081/LV7081_1d9b6iVXj2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="CANAIS",TV Diario Do Sertão
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/05/6d/b6/056db67331cccd6d5a42d6d7f6f69448.jpg" group-title="CANAIS",Record Agua Boa
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VIVAM WEB TV" tvg-logo="https://i.ytimg.com/vi/2dcBtlMmHkg/hqdefault.jpg" group-title="FILMES/SERIES",VIVAM WEB TV
+http://stmv2.euroti.com.br:1935/vivamwebradio/vivamwebradio/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="CANAIS",KURIAKOS TV 
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" group-title="CANAIS",KURIAKOS KIDS 
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/09/tooncast.png" group-title="CANAIS",Tooncast	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="CANAIS", SPORT TV 
+http://apk26.futeboltvgratis.com/live/20/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="CANAIS", SPORT TV 2
+http://apk26.futeboltvgratis.com/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png" group-title="CANAIS", SPORT TV 3
+http://apk26.futeboltvgratis.com/live/7/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 Portugal
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 Portugal
+http://iptvlowcost.club:8080/live/umberto/umberto/2298.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 Portugal
+http://iptvlowcost.club:8080/live/umberto/umberto/2299.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV Portugal
+http://iptvlowcost.club:8080/live/umberto/umberto/2759.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="PORTUGAL",Super RTL Portugal
+http://5.135.92.138:58143/out/u/127_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.seatsforeveryone.com/content/uploaded/sevilla-fc-2014-logo-wallpaper-61830.jpg" group-title="ESPORTES",Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" group-title="CANAIS",SKY NEWS 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.formulatv.com/images/noticias/71700/71713/1_126849da9e.png" group-title="ESPANHA",TV TRECE 
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="CANAIS",TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="CANAIS",TV Pampa 
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://funchalnoticias.net/wp-content/uploads/2016/04/euronews-portugues2.jpg" group-title="CANAIS",Euro News
+https://euronews-pt-p11-cdn.hexaglobe.net/ac7adcd4283d9fc61a54825ea1df2793/5bdc7889/euronews/euronews-euronews-website-web-responsive-2/ewnsabrptpri_por.smil/ewnsabrptpri_por_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/telecine-cult.png" group-title="CANAIS",TELECINE CULT
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS",RedeTv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w144742292.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/fox-life.png" group-title="CANAIS",Fox
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/61.m3u8
+
+#EXTINF:-1 tvg-logo="http://megatvonline.net/wp-content/uploads/2018/09/cartoon-network-online.jpg" group-title="CANAIS",Cartoon 
+Network		
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/117.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/09/boomerang.png" group-title="CANAIS",Boomerang
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/127.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905429080664940544/KhXZ-W-v_400x400.jpg" group-title="CANAIS",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/sbn-tv.png?fit=500%2C300" group-title="CANAIS",SBN TV Portugués
+http://sonlife6-i.akamaihd.net/hls/live/584632/ch6/ch63/ch63.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/forotv.png?resize=218%2C150" group-title="CANAIS",Foro TV en directo
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/tvcuatro1.png?fit=500%2C300" group-title="CANAIS",TV Cuatro Canal 4.3 Guanajuato 
+https://5a3911d64928b.streamlock.net/tv43/videotv43/chunklist_w1042330496_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/10/tv-ra-tim-bum.png" group-title="CANAIS",TV Rá Tim Bum
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/125.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="CANAIS",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.paranaeducativa.pr.gov.br/images/logo_midias_parana_educativa.jpg" group-title="CANAIS",Rede Paraná
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVCULTURA.png" group-title="CANAIS",TV CULTURA 
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALRURAL.png" group-title="CANAIS",CANAL RURAL 
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/7edcb60bc25a642fe2bcfd849d581d60-1505572999.png" group-title="CANAIS",Fox Premium 2
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/63.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/amc.jpg" group-title="CANAIS",AMC 
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/69.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="CANAIS",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://recordtv.r7.com/wp-content/plugins/R7/social/images/logo-recordtv-og.png" group-title="CANAIS",Record Rj
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/discovery-hh.png" group-title="CANAIS",Discovery Home Health	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="FILMES",Cine+ 
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3_240/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/esporte-interativo-2.png" group-title="CANAIS",Esporte Interativo 2
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Red-Paraguaya-de-Comunicaci%C3%B3n-1.png?resize=100%2C70" group-title="CANAIS",Red Paraguaya
+http://174.138.118.252/live/canal13stream_low.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/comedy-central.png" group-title="CANAIS",Comedy Central	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/93.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Americatvlogo2015.svg/200px-Americatvlogo2015.svg.png" group-title="CANAIS",TV America
+http://level3itvo.cdnar.net/itvmedia/16/1/channel_000.m3u8
+
+#EXTINF:-72 tvg-name="TV V" tvg-logo="http://i.imgur.com/oZEwcyY.jpg" group-title="TV Aberta",TV V
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+
+#EXTINF:-72 tvg-name="TV V" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/TV-Macei%C3%B3.png?resize=356%2C220" group-title="TV Aberta",Tv Maceio
+http://173.236.10.10:1935/toptv/toptv/chunklist_w1770376295.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="CANAIS",TV Poços
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" group-title="CANAIS",TV El Nueve
+http://level3itvo.cdnar.net/itvmedia/17/1/channel_000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/canal9noticiasparaguay.png?fit=500%2C300" group-title="CANAIS",Canal 9 Noticias Paraguay 
+http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/mtv.png" group-title="CANAIS",TV Mtv
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/87.m3u8
+
+#EXTINF:-1 tvg-logo="http://d2jljza7x0a5yy.cloudfront.net/images/stories/2demayo/Canal7.jpg" group-title="CANAIS",TV CANAL SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/tv-rio-largo.png?fit=500%2C300" group-title="CANAIS REGIONAIS", Tv Rio Largo
+http://stmv4.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://comercial.recordtv.com.br/files/2017/05/TVVALE_TANGARA.jpg" group-title="CANAIS",TV VALE
+http://45.43.208.2:1935/tvvale/tvvale/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.difundir.com.br/fotos/02715_41490p3.jpg" group-title="CANAIS",TV RBC SALVADOR
+http://45.43.208.98:1935/alexandre3116/alexandre3116/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/studio-universal.png" group-title="CANAIS",Studio Universal
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/73.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000834326503/6c185eb9646fbf317043e3e067e42876_400x400.jpeg" group-title="CANAIS",VALE TV BRASIL
+http://45.43.208.98:1935/valetvbrasil/valetvbrasil/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://caikron.com.br/player/a12/tv/logotv.png" group-title="CANAIS",SANTUÁRIO DE APARECIDA
+http://69.46.0.170:1935/santuario_aparecida/canal1.stream/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg/300px-Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg" group-title="CANAIS",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://rdctv.com.br/wp-content/uploads/2018/09/share.png" group-title="CANAIS",RDCTV Rede Digital de Comunicação
+https://5addcc85cbafa.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w2029919001_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c20c5d2fdc614fce8f8a6678d4871727.png" group-title="CANAIS",WTJ TV MINAS
+http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="CANAIS",Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?m=1539980017
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c1c8f1bcfda739f494fada4c504dc4d7.jpg" group-title="CANAIS",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS 
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3974.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEZZO.png" group-title="PORTUGAL",MEZZO 
+http://ott-cdn.ucom.am/s35/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/fox-premium-1.png" group-title="CANAIS",Fox Premium 1	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/62.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-tus1ndtVccE/UghYMC-yImI/AAAAAAAABPE/VoF0nQelHso/viva+tv+live.png" group-title="CANAIS",VIVA NA TV	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/82.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.stop.org.br/site/stoptv/img%20tvs/tv-com-maceio-canal-12-net.jpg" group-title="CANAIS",TV COM MACEIÓ
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_Rede_Fam%C3%ADlia_%282011%29.png" group-title="CANAIS",REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvonlinehd.org/img/canais/impdtv.png" group-title="CANAIS",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1025079946_b496000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIudHZyYmNfc2NyZWVuXzFfcWR1MWxwanM/screen-1.jpg?h=355&fakeurl=1&type=.jpg" group-title="CANAIS",TV RBC SALVADOR
+http://stmv1.euroti.com.br:1935/alexandre3116/alexandre3116/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/15946/logo_lancelot%20tv2.png" group-title="CANAIS",TV Lancelot 
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://idents.org/312x89/espnHD.jpg" group-title="CANAIS",Espn Brasil
+http://apk26.futeboltvgratis.com/live/19/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/espn.png" group-title="CANAIS",ESPN
+http://apk26.futeboltvgratis.com/live/3/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/11/especial2.jpg" group-title="CANAIS",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/17007d69e234910da3da1ac85e3d49b9.jpg" group-title="CANAIS",REDE MINAS 2
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png" group-title="CANAIS",TVSeries 
+http://fantasticfour.dynu.net:8080/live/Tugavod/f7c4DgHWtK/16993.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" group-title="CANAIS",TVCINE 1
+http://fantasticfour.dynu.net:8080/live/Tugavod/f7c4DgHWtK/12931.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" group-title="CANAIS",TVCINE 2 
+http://fantasticfour.dynu.net:8080/live/Tugavod/f7c4DgHWtK/12930.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JfjrNSU-1hY/WA3qQnzYEAI/AAAAAAAAAn4/gKqyPyizVb0tberDRutFBG8yIx_3r24ugCK4B/s1010/capa.jpg" group-title="CANAIS",TV PANTANAL MS
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://radiocapitalfm777.com/images/thumb/415d46e69bdae8276a4cc5cba9cd3d10.jpg" group-title="FILMES E SÉRIES",TV CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/1678/v2_0/img/landing-disneyworld-resort-new-v2.jpg" group-title="CANAIS",DISNEY
+https://archive.org/download/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%202%20em%20portugu%C3%AAs.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2018/03/cinema.jpg" group-title="CANAIS",Cinema
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.futeboltvgratis.com/wp-content/uploads/2017/12/6ac6173a-340c-4aa9-afc1-b1492c017a0b.jpg" group-title="CANAIS", Bem Amigos Ao Vivo - Futebol Tv
+https://apk26.futeboltvgratis.com/live/20/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/band-news.png" group-title="CANAIS",Band News
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/98.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.r7.com/images/2016/10/28/3og9tc4qqu_927iw0lmqx_file" group-title="CANAIS",Record Tv
+https://vodr7-vh.akamaihd.net/i/573c873907361b0e0301d641/ER7_RE_MINUTO_DO_CASAMENTO_570kbps_2016_05_18_ENC.mp4/index_0_av.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/discovery-kids.png" group-title="CANAIS",Discovery Kids
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/111.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-action.png" group-title="VARIEDADES",Telecine Action
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/51.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://tvitarare.tv.br/_/img/brand.png" group-title="CANAIS",TV Itararé (PE)
+http://177.73.84.49/hls/live/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ni5insG.jpg" group-title="CANAIS", TV SIM VITÓRIA
+http://stmv4.euroti.com.br:1935/tvsimvitoria/tvsimvitoria/live.m3u8
+ 
+#EXTINF:0 group-title="CANAIS",Disney Channel 	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/118.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YAQofNpAcTg/hqdefault.jpg" group-title="CANAIS",TV Marajoara (PA)
+http://video01.tvdigitalhd.org/tv31966/tv31966/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FATIMATV.png" group-title="CANAIS",FATIMA TV 
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/654774499192123392/T9NvU0rR_400x400.jpg" group-title="CANAIS",TV BOA ESPERANÇA
+http://45.43.208.2:1935/16692/16692/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="CANAIS",TV TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="CANAIS",3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://heytv.org/wp-content/uploads/2018/08/ACSszfFIK0FTiBOCcE9EdInGzpQkJaFVrtDUw0uV-As800-mo-c-c0xffffffff-rj-k-no.jpeg" group-title="CANAIS",Oman Sports
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/VTV_logo.PNG/800px-VTV_logo.PNG" group-title="CANAIS",VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALLSPORTS.png" group-title="CANAIS",ALL SPORTS BR
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w444108543.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOX/F8D_290x170.png" group-title="CANAIS",Fox 8	
+https://player-api.new.livestream.com/accounts/57501/events/1146195/broadcasts/183399905.secure.m3u8
+ 
+#EXTINF:0 group-title="CANAIS",CANAL+ CINEMA
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:0 group-title="CANAIS",Record News
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=1179039966
+ 
+#EXTINF:-1 tvg-logo="http://www.arvueuropea.it/J35/images/DocArvu/logo_one_tv.jpg" group-title="CANAIS",One Tv
+http://wse8.player.tv.br:1935/ontv/ontv/chunklist_w1744843364.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06a04907d77f2b665531a5661e54c29b.png" group-title="CANAIS",Diario 26 Buenos Aires Argentina	
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w718333032_b414000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ebf4ffc3ea9633cca3ceb946a8ac3fe.jpg" group-title="CANAIS",TV Cinco - Argentina 
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1440023834.m3u8
+ 
+#EXTINF:0 group-title="CANAIS",Fox Sports
+http://apk26.futeboltvgratis.com/live/4/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.futeboltvgratis.com/wp-content/uploads/2017/11/9c18565d-thumbs-fox-2.jpg" group-title="CANAIS",Fox Sports 2
+http://apk26.futeboltvgratis.com/live/5/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/Esporte_Interativo_BR.png/800px-Esporte_Interativo_BR.png" group-title="CANAIS",Esporte InterativoBR
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="http://fotodicas.com/tv/esporteinterativo1-100px.jpg" group-title="CANAIS",Esporte Interativo Plus
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66YTjXy.jpg" group-title="Noticias",Milenio TV HD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/band-sports.png" group-title="CANAIS",Band Sports
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/34.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/cc513122fb8c9bcadb42a9a48eb6ca11.jpeg" group-title="CANAIS",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/shoptime-logo-1.png" group-title="CANAIS",Tv Shoptime 
+https://www.youtube.com/embed/-4Lbw8DGlAs?autoplay=1&controls=0&rel=0&showinfo=1
+ 
+#EXTINF:0 group-title="CANAIS",CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+ #EXTINF:-1 tvg-logo="http://telpinteve.com.ar:9090/publicidades/banner2.jpg" group-title="CANAIS",Telpin Canal 2
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS",Telecine Pipoca
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/49.m3u8
+
+ #EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/09/history-channel-1.jpg" group-title="CANAIS",History
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/102.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.clarohd.com.br/blog/wp-content/uploads/2015/07/universal_channel_clarohd.jpg" group-title="CANAIS",Universal Channel
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/74.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.dailymail.co.uk/i/pix/2018/02/09/00/4903027200000578-0-image-a-18_1518135210339.jpg" group-title="CANAIS",Warner Tv
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/116.m3u8
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png" group-title="CANAIS",TNT
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/65.m3u8
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/602px-Paramount_Network.svg.png" group-title="CANAIS",Paramount
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/75.m3u8
+
+#EXTINF:0 tvg-logo="https://goo.gl/DgcpF9" group-title="CANAIS",TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.programme.tv/media/cache/relative_max_355x272/upload/epgs/2017/08/automoto_119840385_1.jpg" group-title="CANAIS", Automoto
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="CANAIS",Combate
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/77.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-82VQ0D93XVY/UXRt6e9HthI/AAAAAAAAApo/5Wb4FAaGJLQ/s1600/se%C3%B1al+provincial.jpg" group-title="CANAIS",Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="CANAIS", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS1.png" group-title="CANAIS",BEiN SPORTS 1 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTS2.png" group-title="CANAIS",BEiN SPORTS 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmiramar.com.br/imagens/logogrande.png" group-title="CANAIS",TV Miramar
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+
+ #EXTINF:-1 tvg-logo="https://marciaraval.files.wordpress.com/2015/01/cropped-filmes-e-documentarios1.jpg" group-title="CANAIS",FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" group-title="CANAIS",CACAVISION 
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVGIDEOES.png" group-title="CANAIS",TV GIDEOES
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/fox-life.png" group-title="CANAIS",Fox Life
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/64.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png" group-title="CANAIS",TELEMADRID 
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/max-prime.png" group-title="CANAIS",Max Prime
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/79.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png" group-title="ITALIA",TV MEDIASET EXTRA 
+https://origin-free-live1.mediaset.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORT1.png" group-title="ALEMANHA",Sport1 
+http://sport124x7free-lh.akamaihd.net/i/Sport1_Free_1@585354/index_1_av-p.m3u8 
+ 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b10da2b15bc6334e02544c206dc08d58.jpg" group-title="CANAIS",KISS TV 
+http://sateg.cdnseguro.com/kisstv/kisstv/playlist.m3u8?wowzasessionid=510613106
+ 
+#EXTINF:-1 tvg-logo="https://www.whirlyball.com/assets/1/18/wgn-news.jpg?821" group-title="CANAIS",WGN News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="CANAIS",Tv Rede Gospel	
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8?wowzasessionid=700580293
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d30f30e883e21db065fd78647a5cd16b.png" group-title="CANAIS",Tv Master Joao Pessoa
+http://stmv2.paraibahost.com.br/tvmaster/tvmaster/playlist.m3u8?wowzasessionid=1463476381
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-NNe6UvsAqwM/Vm8qBjCH8fI/AAAAAAAAs0E/3VhBnB-W5ag/s1600/ues%2Btv.jpg" group-title="CANAIS",UES TV Santiago
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvriopreto.tv/images/logo_white.png" group-title="CANAIS",TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="CANAIS",Tv Candeias BA
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1274176229
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be4160e1a67c94f406e36c082f525e95.png" group-title="CANAIS",Miami Tv
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w768034650_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS",TCM 10 
+http://cw.tcm10.com.br/low/canal10.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis1.com/wp-content/uploads/2015/08/animal-planet-online.jpg" group-title="CANAIS",Animal Planeta
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/101.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="CANAIS",RTP MEMORIA 
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="CANAIS",HBO Family
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/57.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png" group-title="CANAIS",TV IRIS 
+http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/D-MA_EDJITc/maxresdefault.jpg" group-title="CANAIS",Central TV (PR)
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/03d88a60f0cf172644a901ff2487d5a0.png" group-title="CANAIS",ABC News Ao Vivo
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d586d6cee28415b8aadc9f9eb3887d9d.png" group-title="CANAIS",TV Natal RN
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis1.com/wp-content/uploads/2016/06/megapix.png" group-title="CANAIS",Megapix
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/68.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="CANAIS",RAI NEWS 24 
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/47a7239c307e792a12c58344a52d69d7.png" group-title="CANAIS",NTV Ao Vivo - Patos de Minas MG 
+http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="CANAIS",Tv Poços de Caldas MG
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist.m3u8?c432811d4cf645650f876d190d1700a7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" group-title="CANAIS",RECORD MT
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zj4BzR5.png" pltv-subgroup="CANAIS",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/plalisty.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/09/disney-junior.png" pltv-subgroup="CANAIS",Disney Junior
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/119.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" pltv-subgroup="CANAIS",Disney XD
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/120.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" pltv-subgroup="CANAIS",ARNOLD 1TEMPORADA2
+http://media-br-am.crackle.com/1/g/d6/0yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rinBarueDio/VZbapa9YuFI/AAAAAAAACfc/2dtaQvWDkUs/s1600/por-onde-anda-os-atores-da-serie-arnold-sbt.jpg" pltv-subgroup="CANAIS",ARNOLD 1TEMPORADA
+http://media-br-am.crackle.com/1/h/d6/3yvlf_480p.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bcb94404a35f2d1dea68a5ebe5c07466.png" pltv-subgroup="CANAIS",Sobrenatural TV 
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1422569318.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/hbo.png" pltv-subgroup="CANAIS",HBO
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/54.m3u8
+ 
+#EXTINF:0 tvg-logo="https://goo.gl/tG6C9S" group-title="CANAIS",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.volnysatelit.cz/wp-content/uploads/2017/06/nick-junior-300x300.png" pltv-subgroup="CANAIS",Nick Junior
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/122.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/180px-Max_%28channel%29.svg.png" pltv-subgroup="CANAIS",MAX 
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7A/q6M0z2CpwRs/s1600/Telecine+(2).png" pltv-subgroup="CANAIS",TELECINE PREMIUM
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/tnt-series.png" group-title="CANAIS",TNT Séries	
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/66.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="canais",HBO PLUS
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/nat-geo-kids.png" group-title="canais",Nat Geo Kids
+https://www.skyiptv.com.br:25463/live/alksfaksdfpwoie/roipqsioercmkls/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVsKJdB.jpg" , REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://evangelizar.s3.amazonaws.com/wp-content/uploads/2018/01/rec-19.png" group-title="CANAL ABERTO", REDE EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2013/04/canc3a7c3a3o-nova.jpg" group-title="CANAIS", CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3XLRz832ioE/Wq6vpJnWKKI/AAAAAAAAG0A/h1N9MxFa8GUyLdCTBDrgkys2PQt7P8kjACLcBGAs/s1600/DXWrhAaC_400x400.jpg" group-title="CANAIS",Yeeah! Teen
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8
+
+#EXTINF:0 group-title="CANAIS",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w369949671.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/800px-Terra_Viva_logo.svg.png" group-title="CANAIS",TV Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/200px-Logotipo_TV_Cidade_Verde.png" group-title="CANAIS",TV Cidade Verdesbt
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://alltv.com.br/wp-content/uploads/2018/04/logo.png" group-title="CANAIS",allTV
+https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-JdbIqgJsOZI/WMk1sl_BHnI/AAAAAAAAAuo/3WIBnnRPLU0A3Z-iP7JGeot7xqxgW-jjgCK4B/s142/logo%2Btv%2Bpantanal.png" group-title="CANAIS",TV Pantanal
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS",RECORD - ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",Via Morena
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/chunklist_w958062539.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70caca2fb7882331db5c88600e16b6e7.jpg" group-title="CANAIS",TV CREATIVE PB
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49b014ea8cc718b346525b936e6fa97a.jpg" group-title="CANAIS",TV NOVA PARAIBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F38eXAP.png" group-title="CANAIS",PLANETA HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d2b0b1789d4c23c4d1e12cd2670b136.png" group-title="CANAIS",Tv Fonte 
+http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w1664582355.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="CANAIS",TV GALICIA 
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",Canal 26
+http://200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c7e56bb8972270a51d107efe1389302e.png" group-title="ARGENTINA",Canal 5 Telesol
+http://149.56.98.124:9090/hls/telesol_mid.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d31ec7b8bd73721009f0a53f45a67936.jpg" group-title="ARGENTINA",America TV	
+https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" group-title="ESPANHA",AXN WHITE HD 
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/images/logoRTC.png" group-title="ESPANHA",TV CABO VERDE
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",CANAL 180 
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foztv.com.br/wp-content/uploads/2018/07/foztv-novo.png",FOZ TV
+http://gw01.7idi.com:8087/hls/foztv.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-dTa0O1XNrfs/UOYNzCOrjtI/AAAAAAAAH0Q/OXGQL7kKsKQ/s1600/terceiro_anjo.png" group-title="Religiosos",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-mtf-UNEK5SA/AAAAAAAAAAI/AAAAAAAAAAA/ITiiEvIRsx8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",WEB TV LEÃO DE JUDÁ
+http://streaming42.sitehosting.com.br:1935/juda/juda/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="RELIGIOSO", TV AD BELÉM
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdhtT5B.png?1" group-title="RELIGIOSO", TV ÁGAPE
+http://streaming63.sitehosting.com.br:1935/prwalla/prwalla/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" group-title="VARIEDADES", TV CIDADE OESTE RN
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2d642aa058bd63380ec39ecdef51b2e.jpg" group-title="VARIEDADES", TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV3.png" group-title="ESPANHA",TV3 CAT 
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="ESPANHA",TV TELESUR 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/128x128.jpg" group-title="TRILOGIAS" pltv-subgroup="ARQUIVO 1",PATRULHA CANINA 01 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/ES4Jz7rZ1ZEFFrBKWXsrH0pafYWRD5v5VRNuyjndPAylR4OWCg0I5ykbxOW2xhZINPnqvOGvfw=m18
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/128x128.jpg" group-title="TRILOGIAS" pltv-subgroup="ARQUIVO 1",PATRULHA CANINA 02- OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GyCg_voT4IlupzejSV7M_UD2vVwO7ZllpjjiQwx1SJpKsu9VR6jHFy4StVl9EiXtqndGQrTPTg=m18
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/128x128.jpg" group-title="TRILOGIAS" pltv-subgroup="ARQUIVO 1",PATRULHA CANINA 03 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/INIBVmMz9055Y6-PmQrjmorNFH6v0A9LGLHmaOdXppnemHlw1VfZE75GPXCjf7_1VAPTpCEFqA=m18
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/128x128.jpg" group-title="TRILOGIAS" pltv-subgroup="ARQUIVO 1",PATRULHA CANINA 04 - OS FILHOTES E O TESOURO PIRATA
+https://lh3.googleusercontent.com/GXIa7TjdGMW5rUDfiUddneqw0E_YTlPvvRhckSljrFGYuni2WOep5QNfQn2A4cQ0kkG7L3hnzw=m18
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/lcseth/128x128.jpg" group-title="TRILOGIAS" pltv-subgroup="ARQUIVO 2",Gato de Botas
+https://lh3.googleusercontent.com/Rh0-EYsMxVv9n9afGg7m4GLPM8404vve6UeALmGcZQAGyUaBRuDXcQSDPmFZT6Q8oA40w_0_DrKIyA=m22
+
+#EXTINF:-1 tvg-logo="https://www.comboinfinito.com.br/principal/wp-content/uploads/2016/03/filme-tartarugas-ninja-790x444.jpg" group-title="CLASSICOS",As Tartarugas Ninja 2 O Segredo Do Ooze ( 1991)
+http://archive.org/download/AsTartarugasNinja2OSegredoDoOoze1991/As%20Tartarugas%20Ninja%202%20-%20O%20Segredo%20do%20Ooze%20%281991%29%20BDrip%20720p%20Dublado%20dat2014.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/pP1hG0x0hQ-tpnWR_MfAu8iAs7s=/e.glbimg.com/og/ed/f/original/2018/01/30/dino.jpg" group-title="CLASSICOS",Quando Os Dinossauros Dominavam A Terra
+http://archive.org/download/Quando.Os.Dinossauros.Dominavam.A.Terra.DVDRip.XviD.Legendado.By.lendiniz.therebels/Quando.Os.Dinossauros.Dominavam.A.Terra.DVDRip.XviD.Legendado.By.lendiniz.therebels.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" group-title="PORTUGAL",MTV HITS 
+http://80.87.208.158:80/dna-67-tv-pc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="PORTUGAL",BLOOMBERG 
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="PORTUGAL",CBSN 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOTSF.png" group-title="RADIOS",TSF 
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOONDAVIVA.png" group-title="RADIOS",RADIO ONDA VIVA 
+http://centova.radios.pt:9524/stream
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="RADIOS",HIPER FM 
+http://195.23.85.126:9500/stream/1/
+
+#EXTINF:-1 tvg-logo="http://www.radionova.fm/w/img/radionova_logo-cores.png" group-title="RADIOS",RADIO NOVA 
+http://centova.radios.pt:9528/stream/1/
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-festival.png" group-title="RADIOS",RADIO FESTIVAL 
+http://centova.radios.pt:9520/stream/1/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM 
+http://195.8.58.150:35022/stream/1/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,DISCOVERY THEATER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+#EXTINF:0,ID
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+#EXTINF:0,HISTORY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+#EXTINF:0,NATGEO WILD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY WORLD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+#EXTINF:0,H&H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
+#EXTINF:0,NATGEO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+#EXTINF:0,LIFETIME
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
+#EXTINF:0, DISCOVERY SCIENCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY TURBO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+#EXTINF:0,TLC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+#EXTINF:0,WOBI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:0,HISTORY HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:0,NATGEO WILD HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+#EXTINF:0,H&H HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:0,NATGEO HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:0,LIFETIME HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:0, DISCOVERY SCIENCE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+#EXTINF:0,TLC HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:0,WOBI HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
+#EXTINF:0,ESPN +
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:0,ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:0,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0,PX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:0,ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:0,ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:0,ESPN + HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0,FOX HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+#EXTINF:0,SONY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+#EXTINF:0,WB
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+#EXTINF:0,UNIVERSAL HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+#EXTINF:0,FX HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
+#EXTINF:0,A&E HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
+#EXTINF:0,AXN HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
+#EXTINF:0,TRUTV HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
+#EXTINF:0,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+#EXTINF:0,HOLATV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
+#EXTINF:0,FASHIONTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
+#EXTINF:0,AZCORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
+#EXTINF:0,FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
+#EXTINF:0,BBC ENTRETAINMENT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
+#EXTINF:0,E!
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+#EXTINF:0,UNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
+#EXTINF:0,SYFY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
+#EXTINF:0,FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
+#EXTINF:0,ID
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+#EXTINF:0,TNT SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+#EXTINF:0,EL GOURMET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
+#EXTINF:0,GARAGE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
+#EXTINF:0,GLITZ
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
+#EXTINF:0,FOXLIFE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+#EXTINF:0,TBS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:0,TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0,tve
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:0,CANAL 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:0,AZTECA 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:0,GALAVISION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:0,ONCE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+#EXTINF:0,AZTECA 13
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:0,CANAL 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:0,MULTIMEDIOS TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:0,AZCLIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0,CANAL 5 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0,AZTECA 7 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0,GALAVISION HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:0,ONCE TV HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:0,AZTECA 13 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0,CANAL 40 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:0,MULTIMEDIOS TV HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:0,AZCLIC HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+#EXTINF:0,FOX 1 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+#EXTINF:0,FOX ACTION HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+#EXTINF:0,FOX MOVIES HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+#EXTINF:0,FOX CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+#EXTINF:0,FOX CLASSIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+#EXTINF:0,AZCINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+#EXTINF:0,CINECANAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+#EXTINF:0,TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+#EXTINF:0,GOLDEN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+#EXTINF:0,FILMZONE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+#EXTINF:0,DEPELICULA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
+#EXTINF:0,AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+#EXTINF:0,SPACE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
+#EXTINF:0,FOXCINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
+#EXTINF:0,FOXCLASSIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
+#EXTINF:0,CINECANAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
+#EXTINF:0,CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:0,TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
+#EXTINF:0,EDGE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+#EXTINF:0,AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+#EXTINF:0,SPACE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
+#EXTINF:0,STUDIOUNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+#EXTINF:0,I.SAT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+#EXTINF:0,TCM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+#EXTINF:0,MTV LIVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:0,TELEHIT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+#EXTINF:0,VHR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:0,MTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:0,MTV HITS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:0,1CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:0,RITMOSON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:0,BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+#EXTINF:0,MTV LIVE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0,TELEHIT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0,VHR HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0,MTV HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0,MTV HITS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0,1CLASSICS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0,RITMOSON HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0,BANDAMAX HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:0,Foro TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
+#EXTINF:0,MILENIO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
