@@ -1,0 +1,68 @@
+
+
+#EXTM3U
+****************************** 3D ******************************
+#EXTINF:0, /romancetv
+http://81.183.123.31:9003/play/romancetv
+#EXTINF:0, 1
+http://cdn.vidible.tv/prod/player/swf/latest/vpaid-shim.swf?pid=52ee3aaae4b0906a95a168c9&adOnly=true&bcid=5176c647e4b09e5e67af5b27&m.cb=1445192130&m.url=http://sawlive.tv
+#EXTINF:0, 1
+rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam2?key=084104117032078111118032048053032048053032052050 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400
+#EXTINF:0, 1
+http://82.76.249.77/digi24edge/digi24brasovlive/chunklist.m3u8
+#EXTINF:0, 1
+http://llmd.shahid.net/media/ll/2fda1d3fd7ab453cad983544e8ed70e4/093765d4fb754130a19185ea9253bfc9/003e99b3c5f24332abcf596d6c1003a7/the_voice_s03_e04.mpegts/playlist-218d447a589d1b04a5918d82cfff0403ee1df75b.m3u8
+#EXTINF:0, 1
+http://live.p2pcast.tv:8010/tv2/500479.m3u8?sf=NTVlMWEzY2UwNjkzYg==&token=aneKe6phvfev6LLbagSPUg
+#EXTINF:0, 1
+http://nrttv.iptv-playoutcenter.de:1935/nrt1/nrt1.stream_1/playlist.m3u8
+#EXTINF:0, 1
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
+#EXTINF:0, 1
+http://77.22.99.105:8001/1:0:1:39:F:85:C00000:0:0:0:
+#EXTINF:0, 1
+http://b.scorecardresearch.com/b?c1=7&c2=8097938&rn=1190792772&c7=http://seg.sharethis.com/getSegment.php?purl=http://showsport-tv.com/watch/bein-sport-1-live-stream&jsref;=&rnd=1446170875646&c3=8097938&c8=ShareThis Segmenter&c9=http://showsport-tv.com/watch/bein-sport-1-live-stream&cv=2.2&cs=js
+#EXTINF:0, 1
+http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/753.m3u8
+#EXTINF:0, 1
+rtmp://192.240.125.26:443/live?AHx0SNCnIJsbJmmSXOMD5bTBsfDRoMZZlive_mega_chavo http://vaughnlive.tv/4365714339
+#EXTINF:0, 1
+rtmp://sa6.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTYgMjo4OjQwIFBNJmhhc2hfdmFsdWU9NmdvTlRHdFljQTNDbnpZZ3psQ0p5dz09JnZhbGlkbWludXRlcz02MDAw/irinn-500k.stream
+#EXTINF:0, 1
+http://95.170.220.243/live/disk1/Dalkurd_Live/anevia1/Dalkurd_Live-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+#EXTINF:0, 1
+http://185.53.163.73:9981/stream/channelid/2017576982
+#EXTINF:0, 1
+http://163.172.209.93:8085/RealMadridBetis-eaglestreams-com/mono.m3u8
+#EXTINF:0, 1
+http://300panelpro300.com:8080/get.php?username=ridvandemir&password=23091612rd&type= m3u_plus&….
+#EXTINF:0, 1
+http://178.33.122.128:16000/get.php؟username=Mode053&password=aGOjAyrC44&type=m3u
+#EXTINF:0, 1
+http://211.210.157.148:9981/playlist
+#EXTINF:0, 1
+http://livetvkodiserbia.com/addonxml/m3u/extreme-exyu.m3u8
+#EXTINF:0, 10000
+http://fra1.ddns.net:97/get.php?username=amir&password=amir&type=m3u
+#EXTINF:0, 11
+http://server.hitlantv.com:8080/get.php?username=koray&password=koray123&type=m3u
+#EXTINF:0, 111
+http://cdn.looktv.mn:8080/vods3/_definst_/smil:amazons3/bb-media-tokyo/2c9f890e523a284a01523f1e03060074/preview/2c9f890e523a284a01523f1e03060074.smil/playlist.m3u8
+#EXTINF:0, 1111
+http://164.132.161.193:8000//streaming/clients_live.php?username=456789&password=456789&stream=1399&extension=ts&hash=b59f886c5ec8a66df459cd6d9ae2e94a&time=1469242977&external;_device=.m3u
+#EXTINF:0, 12
+http://tvtelekom.com:1935/nettv/nettv/playlist.m3u8
+#EXTINF:0, 12
+http://91.12.58.28:8080/11.m3u8
+#EXTINF:0, 123
+http://89.212.40.45:1234/udp/239.14.2.7:5000
+#EXTINF:0, 123
+http://smart-iptv2016.com:9500/get.php?username=stream156&password=0610509511&type=m3u
+#EXTINF:0, 13
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv
+#EXTINF:0, 133
+http://livestream-hlsvod.oss-cn-beijing.aliyuncs.com/online/101_stream_alias_858682738_68610_1476625418.m3u8
+#EXTINF:0, 15947897984
+http://ds-iptv.dyndns.org:8000/live/cosimo/cosimo/135.m3u8
+#EXTINF:0, 16992
+http://europahdiptv.net:8080/JoãoTeixeiraA/fRL6pWOCeh/16992
