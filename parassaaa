@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png", Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 type="stream" channelId="67" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png", TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0 type="stream" channelId="383" logo="https://i.imgur.com/BUiwYlr.png", Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.goldbachgermany.de/uploads/Sylt1-Logo-1024x449.png", SYLT1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="139" logo="https://i.imgur.com/j55hDLp.png", France 24 (Opt-1)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="979" logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg", QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+#EXTINF:0 type="stream" channelId="1323" logo="http://1.bp.blogspot.com/-vMAQNoRpfA8/UelW10uDRvI/AAAAAAAAJhs/LcAP-VsO8YY/s1600/Logo_TVE_24h.jpg", 24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:0 type="stream" channelId="1667" logo="https://i.imgur.com/7C9rreQ.png", Calle 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="3756" logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png", Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 type="stream" channelId="-1", 13Maxtv
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0 type="stream" channelId="2663" logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png", RedeTv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w144742292.m3u8
+#EXTINF:0 type="stream" channelId="2433" logo="https://pbs.twimg.com/profile_images/1472709985/9fea93cb58684b29e9cff8fbd558926d_400x400.jpg", SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", PREMIER
+http://apkftv.cinemafacil.com:8081/live/4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2437" logo="https://goo.gl/tG6C9S", TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0 type="stream" channelId="2433" logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png", SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2456", RECORD NEWS
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b4738048.m3u8
+#EXTINF:0 type="stream" channelId="1031", RECORD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b4738048.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Jovem_Pan_logo.svg", Jovempan
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2467", tv cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1083709281.m3u8?_fwobw=2379071&_fwtbw=2379071
+#EXTINF:0 type="stream" channelId="2467", tv cultura
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV RECORD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b475136.m3u8?sts=st=1563144163~exp=1563150763~acl=/*~hmac=4a3e064a83c9288e97bf79bf4c4d9b36e0debf85c62e96c81e2f4a451ebdb03d
+#EXTINF:0 type="stream" channelId="-1", TV RECORD SD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b1089536.m3u8?sts=st=1560978555~exp=1560985155~acl=/*~hmac=0def0ac743ddce6054972b817eda09e6b19be21370cfad220ebb1a44f8dbcd26
+#EXTINF:0 type="stream" channelId="-1", TV RECORD SD -
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8?sts=st=1563144163~exp=1563150763~acl=/*~hmac=4a3e064a83c9288e97bf79bf4c4d9b36e0debf85c62e96c81e2f4a451ebdb03d
+#EXTINF:0 type="stream" channelId="-1" logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/canal9noticiasparaguay.png?fit=500%2C300", Canal 9 Noticias Paraguay
+http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/chunklist_b850000.m3u8
+#EXTINF:0 type="stream" channelId="181" logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2018/03/cinema.jpg", Cinema
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="DRAMA" logo="http://telecine.img.estaticos.tv.br/cache/cartazes/vida_2_cartaz_220x283.jpg", Bem-vindo á Meia Idade 2018
+https://goo.gl/Qof539
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZSHATXRHpHXiVJCcPZB-5hENfhy_Ru_va-EnV8InXpUUba7z" background="rgba(222,37,59,1)", BAND DATENA
+https://evpp.mm.uol.com.br/geob_band/brasilurgente/chunklist_w327790709.m3u8
